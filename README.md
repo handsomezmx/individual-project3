@@ -1,5 +1,7 @@
 # individual-project3
-In this project, I build a 24 points calculator as a lamda function and deploy it on aws.
+In this project, I build a 24 points checker as a lamda function and deploy it on aws.
+
+This checker can tell you whether there is solution to the 24 points game. If there is, it will also show the specific calculations.
 
 Through a Api Gateway, I can trigger the lamda function only when the function is needed.
 
